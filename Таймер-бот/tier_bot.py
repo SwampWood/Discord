@@ -30,7 +30,7 @@ class Timer(commands.Cog):
 
 bot = commands.Bot(command_prefix='', intents=intents)
 
-TOKEN = "MTEwMjMxOTA3NjY2NTIwNDgzNw.GLWM0Z.gQRcO9FIavjZhm5-SXkJThddB17xDNb7Z7A_4w"
+TOKEN = "BOT-TOKEN"
 
 
 async def main():
